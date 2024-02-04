@@ -1,0 +1,24 @@
+{
+    "name": "kalypso89/todomvc",
+    "description": "This project has been generated with PHP and MySQL (using Composer package) to implement TodoMvc application",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angela",
+            "email": "antunezangela89@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Database\\": "database/",
+            "App\\": "app/",
+            "Core\\": "core/"
+        },
+        "files": [
+            "config/config.php"
+        ]
+    },
+    "require": {}
+}

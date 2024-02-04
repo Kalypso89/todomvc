@@ -17,7 +17,7 @@
             "Core\\": "Core/"
         },
         "files": [
-            "config/config.php"
+            "config/server.php"
         ]
     },
     "require": {

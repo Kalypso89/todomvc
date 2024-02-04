@@ -20,5 +20,7 @@
             "config/config.php"
         ]
     },
-    "require": {}
+    "require": {
+        "php": "8.2.12"
+    }
 }

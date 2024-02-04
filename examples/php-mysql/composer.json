@@ -12,9 +12,9 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Database\\": "database/",
-            "App\\": "app/",
-            "Core\\": "core/"
+            "Database\\": "Database/",
+            "App\\": "App/",
+            "Core\\": "Core/"
         },
         "files": [
             "config/config.php"
